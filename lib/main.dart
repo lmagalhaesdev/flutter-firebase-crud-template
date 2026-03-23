@@ -1,3 +1,8 @@
+// Autor: André Lucas Conceição Magalhães
+// GitHub: https://github.com/NemRela1
+// LinkedIn: https://www.linkedin.com/in/lucas-magalh%C3%A3es-348936222/
+// Data: 22/03/2026
+
 import 'package:flutter/material.dart';
 import 'package:firebase_core/firebase_core.dart';
 import 'package:flutter_firebase_crud_template/widgets/product_form.dart';
